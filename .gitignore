@@ -1,0 +1,5 @@
+# Ignorar a pasta vscode
+vscode/
+
+# Ignorar o arquivo main.exe
+main.exe
